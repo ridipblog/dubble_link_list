@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638335221 source:d:\c\dubbly_link_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
